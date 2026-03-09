@@ -12,6 +12,7 @@ URLS = [
     "http://www.kt-so.com",
     "https://www.lilith-soft.com",
     "https://www.ziz-entertainment.com/anime/index.html"
+    "https://forums.socialmediagirls.com/threads/ktso.42130/page-40"
 ]
 
 # Telegram bot token and chat ID (from GitHub Secrets)
