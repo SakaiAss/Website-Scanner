@@ -9,9 +9,9 @@ from datetime import datetime
 
 # List of websites to monitor
 URLS = [
-    "https://example.com/news",
-    "https://anotherwebsite.com/updates",
-    "https://yetanother.com/blog"
+    "http://www.kt-so.com",
+    "https://www.lilith-soft.com",
+    "https://www.ziz-entertainment.com/anime/index.html"
 ]
 
 # Telegram bot token and chat ID (from GitHub Secrets)
