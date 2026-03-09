@@ -2,7 +2,7 @@ import requests
 import hashlib
 import os
 
-URL = "https://example.com"
+URL = "http://www.kt-so.com/"
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 CHAT_ID = os.environ["CHAT_ID"]
